@@ -1,5 +1,7 @@
 # react-native-wifi-share
 
+# Note This Package in under development Not ready for use yet
+
 a support package for creating wifi hotspot or connecting hostspot from android and ios modules created with love from the dev by the dev
 
 ## Installation
